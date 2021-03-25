@@ -16,4 +16,4 @@ When the ball hit the paddle, the ball should go in a definite direction based o
 
 # Webpage Link
 
-# https://darshan12-code.github.io/Game1/index.html
+https://darshan12-code.github.io/Game1/index.html
